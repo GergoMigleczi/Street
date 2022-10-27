@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/Street/bin/Debug/netcoreapp3.1/Street.deps.json
+/Users/migleczigergo/Projects/Street/bin/Debug/netcoreapp3.1/Street.runtimeconfig.json
+/Users/migleczigergo/Projects/Street/bin/Debug/netcoreapp3.1/Street.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/Street/bin/Debug/netcoreapp3.1/Street.dll
+/Users/migleczigergo/Projects/Street/bin/Debug/netcoreapp3.1/Street.pdb
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.AssemblyInfo.cs
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.dll
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.pdb
+/Users/migleczigergo/Projects/Street/obj/Debug/netcoreapp3.1/Street.genruntimeconfig.cache
